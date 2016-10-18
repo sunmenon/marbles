@@ -2,18 +2,6 @@
   "credentials": {
     "peers": [
       {
-        "discovery_host": "6c59efe2dbac4de1844804806645a257-vp3.us.blockchain.ibm.com",
-        "discovery_port": 30304,
-        "api_host": "6c59efe2dbac4de1844804806645a257-vp3.us.blockchain.ibm.com",
-        "api_port_tls": 444,
-        "api_port": 444,
-        "type": "peer",
-        "network_id": "6c59efe2dbac4de1844804806645a257",
-        "container_id": "ab5a21526c3a1e10ef2b50f914873d05d0630bdf13f1db2a81858d2291cb8b3a",
-        "id": "6c59efe2dbac4de1844804806645a257-vp3",
-        "api_url": "http://6c59efe2dbac4de1844804806645a257-vp3.us.blockchain.ibm.com:444"
-      },
-      {
         "discovery_host": "6c59efe2dbac4de1844804806645a257-vp0.us.blockchain.ibm.com",
         "discovery_port": 30304,
         "api_host": "6c59efe2dbac4de1844804806645a257-vp0.us.blockchain.ibm.com",
@@ -24,30 +12,6 @@
         "container_id": "3d3c1ef03025c965fcfdb2ccd3fefe2ae501aa7095f05d4bdb0036efc44cb823",
         "id": "6c59efe2dbac4de1844804806645a257-vp0",
         "api_url": "http://6c59efe2dbac4de1844804806645a257-vp0.us.blockchain.ibm.com:444"
-      },
-      {
-        "discovery_host": "6c59efe2dbac4de1844804806645a257-vp1.us.blockchain.ibm.com",
-        "discovery_port": 30304,
-        "api_host": "6c59efe2dbac4de1844804806645a257-vp1.us.blockchain.ibm.com",
-        "api_port_tls": 444,
-        "api_port": 444,
-        "type": "peer",
-        "network_id": "6c59efe2dbac4de1844804806645a257",
-        "container_id": "db9759792c4da3542049e199fd8e2f43e11b5664c7750e49a7156b213c31219a",
-        "id": "6c59efe2dbac4de1844804806645a257-vp1",
-        "api_url": "http://6c59efe2dbac4de1844804806645a257-vp1.us.blockchain.ibm.com:444"
-      },
-      {
-        "discovery_host": "6c59efe2dbac4de1844804806645a257-vp2.us.blockchain.ibm.com",
-        "discovery_port": 30304,
-        "api_host": "6c59efe2dbac4de1844804806645a257-vp2.us.blockchain.ibm.com",
-        "api_port_tls": 444,
-        "api_port": 444,
-        "type": "peer",
-        "network_id": "6c59efe2dbac4de1844804806645a257",
-        "container_id": "2b4349241ed83b1fd55d2afac0e0a75d970f1b994c810176a9afe2c44118b11a",
-        "id": "6c59efe2dbac4de1844804806645a257-vp2",
-        "api_url": "http://6c59efe2dbac4de1844804806645a257-vp2.us.blockchain.ibm.com:444"
       }
     ],
     "ca": {
